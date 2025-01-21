@@ -1,4 +1,4 @@
-## Hi there 👋
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noelithub77&layout=compact&theme=dark&card_width=500&hide_border=true)
 
 <!--
 **Noelithub77/Noelithub77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
