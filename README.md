@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3500&pause=1000&color=208D7E&width=435&lines=Taming+infinity!)](https://git.io/typing-svg)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noelithub77&layout=compact&theme=dark&card_width=500&hide_border=true)
 
 <!--
